@@ -8,7 +8,7 @@ complete given tasks within a specified time and those who are not.
 
 Data are collected on the performance of 75 randomly selected administrators. 
 
-They are stored in the file SystemAdministrators.csv (available on eLearning).
+They are stored in the file SystemAdministrators.csv.
 
 The variable Experience measures months of full-time system administrator experience,
 while Training measures the number of relevant training credits. 
