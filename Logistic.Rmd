@@ -1,6 +1,5 @@
 ---
-title: "R HOMEWORK_2"
-author: "Badlani_Aishwarya_BUAN6356"
+
 date: "11/4/2018"
 output: html_document
 ---
